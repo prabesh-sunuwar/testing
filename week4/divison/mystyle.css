@@ -1,0 +1,27 @@
+.div-parent {
+    background-color: skyblue;
+    padding: 20px;
+}
+.div-child{
+    background-color:cadetblue; 
+    padding: 20px;
+    margin: 10px 0;
+}
+.div-inner-child{
+    background-color:chartreuse;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.div-multi-inner-child{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.onhover-change:hover{
+    transition: 4000ms;
+    color:red;
+    text-decoration: underline;
+
+
+}

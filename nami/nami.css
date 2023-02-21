@@ -1,0 +1,17 @@
+.div-child{
+    padding: 20px;
+}
+.div-inner-child{
+    padding: 20px;
+    text-align: center;
+}
+.div-multi-inner-child{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.onhover-change:hover{
+    color: red;
+    transition: 100ms;
+    text-decoration: underline;
+}

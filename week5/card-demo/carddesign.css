@@ -1,0 +1,65 @@
+.card-border{
+    border: 3px solid black;
+    border-radius: 25px;
+    height: 280px;
+    width: 230px;
+    margin: 0;
+    background-color: gold;
+    padding: 0;
+}
+.card-head{
+    text-align: center;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    height: 30px;
+    background-color: blue;    
+    margin: 0px;
+    padding: 20px;
+    
+
+}
+.card-head-title{
+    text-align: center;
+    font-family: sans-serif;
+    padding: auto;
+    
+}
+.card-body-title{
+    text-align: center;
+    margin: 0;
+    padding: 16px 0;
+}
+.card-body{
+    padding: 10px;
+    margin: 10px;
+    margin-top: 0;
+}
+.card-border-2{
+    border: 5px solid blue;
+    border-radius: 25px;
+    height: 300px;
+    width: 200px;
+    background-color: yellow;
+    
+    
+}
+.card-head-2{
+    border-top-right-radius: 20px;
+    background-color: pink;
+    border-top-left-radius:20px ;
+    margin: 0px;
+    padding: 20px;
+    height: 30px;
+    
+
+}
+.card-head-title-2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.card-body-2{
+    padding: 20px;
+    margin: 10px;
+    
+}
